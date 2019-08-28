@@ -11,7 +11,7 @@
 + [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py) - Script used to query the AAS XML files
 + [XML_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_ALIAS_LIST.txt) - List of software aliases searched for using the XML_PARSER.py script
 + [XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819) - Contains scripts used to analyze results of XML scraping
-+ draft_scripts_old.zip - incomplete or inaccurate drafts of scripts from earlier in the process
++ [draft_scripts_old.zip](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/draft_scripts_old.zip) - incomplete or inaccurate drafts of scripts from earlier in the process (remove these once we're done)
 
 ### [XML_SEARCH/XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819)
 + [XML_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
@@ -34,8 +34,6 @@
 + [rec_credit_count_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_count_082819.csv) - Total number of papers mentioning software that gave some form of recognizable credit
 + [rec_credit_only_files_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_only_files_082819.csv) - List of papers that gave a recognizable form of credit
 + [rec_credit_only_files_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_only_files_082819.csv) - List of papers mentioning software that gave no form of recognizable credit
-
-
 
 ## XML INPUT/RESULTS COLUMN EXPLANATIONS
 
@@ -61,25 +59,11 @@
 | Publisher  | Publisher of the record ("publisher-name" in XML)  |
 
 
-### API_SEARCH/ (Edit these!)
-+ ADS_API_SEARCH_QUERY.py - Script used to query the ADS API
-+ API_ALIAS_LIST.txt - List of software aliases searched for using the ADS API
+### [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH) (Edit these!)
++ [ADS_API_SEARCH_QUERY.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/ADS_API_SEARCH_QUERY.py) - Script used to query the ADS API
++ [API_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ALIAS_LIST.txt) - List of software aliases searched for using the ADS API
 + API_ANALYSIS/ - Contains scripts used to analyze results of API query
 + API_Cleaner.py - ?
-
-### API_SEARCH/API_ANALYSIS/ (Edit these!)
-+ API_ANALYSIS_031919.py = draft analysis scritpts by Daniel
-+ API_CLEAN_INPUT_040519.csv = File resulting from ADS_API_SEARCH_QUERY.py and cleaned by Daniel; imported into API_FINAL_ANALYSIS_040519.ipynb
-+ API_FINAL_ANALYSIS_040519.ipynb = scripts used to analyze API search results
-+ API_FINAL_ANALYSIS_040519.csv = File used throughout API_FINAL_ANALYSIS_040519.ipynb
-+ API_RESULTS/ = Contains results of analysis completed 04-05-19
-
-
-### API_ANALYSIS/API_RESULTS/ = Contains cleaned up API search results completed 03-25-19 (Edit these!)
-+ API_cite_aliases_040519.csv = All aliases associated with citations for all software packages
-+ API_over_time_040519.csv = Number of articles containing aliases for all software packages by year
-
-
 
 
 ## API INPUT/RESULTS COLUMN EXPLANATIONS (Edit these!)
