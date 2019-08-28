@@ -1,0 +1,224 @@
+Software_Package,Parent1_Tag,Parent2_Tag,Parent3_Tag,Parent4_Tag,count
+AstroBlend,ext-link,p,fn,p,1
+AstroBlend,sc,p,sec,sec,1
+Astropy,collab,element-citation,ref,ref-list,1
+Astropy,collab,person-group,element-citation,ref,346
+Astropy,collab,person-group,nlm-citation,ref,39
+Astropy,comment,element-citation,ref,ref-list,40
+Astropy,conf-name,element-citation,ref,ref-list,1
+Astropy,disp-formula,p,sec,sec,1
+Astropy,ext-link,element-citation,ref,ref-list,397
+Astropy,ext-link,nlm-citation,ref,ref-list,44
+Astropy,ext-link,p,ack,back,36
+Astropy,ext-link,p,fn,p,46
+Astropy,ext-link,p,sec,article,1
+Astropy,ext-link,p,sec,sec,1
+Astropy,institution,aff,contrib-group,article-meta,1
+Astropy,italic,p,ack,back,7
+Astropy,italic,p,app,app-group,1
+Astropy,italic,p,sec,article,1
+Astropy,italic,p,sec,sec,4
+Astropy,monospace,p,abstract,article-meta,1
+Astropy,monospace,p,ack,back,50
+Astropy,monospace,p,app,app-group,1
+Astropy,monospace,p,caption,fig,1
+Astropy,monospace,p,list-item,list,1
+Astropy,monospace,p,sec,article,7
+Astropy,monospace,p,sec,sec,15
+Astropy,monospace,td,tr,tbody,1
+Astropy,p,abstract,article-meta,front,1
+Astropy,p,ack,back,article,479
+Astropy,p,app,app-group,back,4
+Astropy,p,fn,p,sec,4
+Astropy,p,list-item,list,p,3
+Astropy,p,sec,ack,back,1
+Astropy,p,sec,app,app-group,2
+Astropy,p,sec,article,body,26
+Astropy,p,sec,sec,article,36
+Astropy,p,sec,sec,sec,6
+Astropy,pub-id,element-citation,ref,ref-list,405
+Astropy,sans-serif,p,ack,back,1
+Astropy,sans-serif,p,app,app-group,1
+Astropy,sc,p,abstract,article-meta,1
+Astropy,sc,p,ack,back,17
+Astropy,sc,p,sec,article,2
+Astropy,sc,p,sec,sec,1
+Astropy,source,element-citation,ref,ref-list,5
+Astropy,surname,name,person-group,element-citation,7
+Astropy,surname,name,person-group,nlm-citation,2
+Astropy,td,tr,tbody,table,1
+Astropy,tex-math,disp-formula,p,sec,1
+Astropy,year,element-citation,ref,ref-list,1
+RADMC-3D,article-title,element-citation,ref,ref-list,19
+RADMC-3D,comment,element-citation,ref,ref-list,4
+RADMC-3D,comment,nlm-citation,ref,ref-list,1
+RADMC-3D,ext-link,article-title,element-citation,ref,2
+RADMC-3D,ext-link,comment,element-citation,ref,5
+RADMC-3D,ext-link,comment,nlm-citation,ref,1
+RADMC-3D,ext-link,element-citation,ref,ref-list,29
+RADMC-3D,ext-link,nlm-citation,ref,ref-list,82
+RADMC-3D,ext-link,p,ack,back,4
+RADMC-3D,ext-link,p,fn,p,53
+RADMC-3D,ext-link,p,sec,article,2
+RADMC-3D,ext-link,p,sec,sec,1
+RADMC-3D,fpage,nlm-citation,ref,ref-list,1
+RADMC-3D,italic,p,sec,article,1
+RADMC-3D,italic,p,sec,sec,1
+RADMC-3D,monospace,p,abstract,article-meta,1
+RADMC-3D,monospace,p,ack,back,2
+RADMC-3D,monospace,p,app,app-group,1
+RADMC-3D,monospace,p,caption,fig,3
+RADMC-3D,monospace,p,list-item,list,1
+RADMC-3D,monospace,p,sec,app,1
+RADMC-3D,monospace,p,sec,article,8
+RADMC-3D,monospace,p,sec,sec,17
+RADMC-3D,p,abstract,article-meta,front,3
+RADMC-3D,p,ack,back,article,19
+RADMC-3D,p,app,app-group,back,9
+RADMC-3D,p,caption,fig,app,3
+RADMC-3D,p,caption,fig,sec,18
+RADMC-3D,p,caption,fig-group,p,1
+RADMC-3D,p,fn,p,sec,3
+RADMC-3D,p,fn,table-wrap-foot,table-wrap,2
+RADMC-3D,p,list-item,list,p,3
+RADMC-3D,p,sec,ack,back,1
+RADMC-3D,p,sec,app,app-group,1
+RADMC-3D,p,sec,article,body,53
+RADMC-3D,p,sec,sec,article,61
+RADMC-3D,p,sec,sec,sec,8
+RADMC-3D,pub-id,element-citation,ref,ref-list,23
+RADMC-3D,sc,p,caption,fig,1
+RADMC-3D,sc,p,caption,table-wrap,1
+RADMC-3D,sc,p,fn,table-wrap-foot,1
+RADMC-3D,sc,p,sec,article,6
+RADMC-3D,sc,p,sec,sec,19
+RADMC-3D,source,element-citation,ref,ref-list,12
+RADMC-3D,source,nlm-citation,ref,ref-list,1
+RADMC-3D,td,tr,tbody,table,2
+RADMC-3D,title,app,app-group,back,1
+RADMC-3D,title,sec,sec,article,2
+RADMC-3D,volume,element-citation,ref,ref-list,1
+SAOImage DS9,ext-link,element-citation,ref,ref-list,18
+SAOImage DS9,ext-link,nlm-citation,ref,ref-list,39
+SAOImage DS9,ext-link,p,ack,back,3
+SAOImage DS9,ext-link,p,caption,fig,3
+SAOImage DS9,ext-link,p,fn,fn-group,9
+SAOImage DS9,ext-link,p,fn,p,29
+SAOImage DS9,ext-link,p,sec,ack,1
+SAOImage DS9,ext-link,p,sec,sec,2
+SAOImage DS9,italic,p,ack,back,2
+SAOImage DS9,italic,p,app,app-group,1
+SAOImage DS9,italic,p,list-item,list,2
+SAOImage DS9,italic,p,sec,article,5
+SAOImage DS9,italic,p,sec,sec,5
+SAOImage DS9,monospace,p,ack,back,2
+SAOImage DS9,monospace,p,sec,article,1
+SAOImage DS9,monospace,p,sec,sec,1
+SAOImage DS9,p,ack,back,article,124
+SAOImage DS9,p,app,app-group,back,5
+SAOImage DS9,p,caption,fig,app,1
+SAOImage DS9,p,caption,fig,sec,17
+SAOImage DS9,p,caption,fig-group,p,4
+SAOImage DS9,p,caption,table-wrap,sec,2
+SAOImage DS9,p,fn,fn-group,sec,2
+SAOImage DS9,p,fn,p,list-item,1
+SAOImage DS9,p,fn,p,sec,6
+SAOImage DS9,p,fn,table-wrap-foot,table-wrap,3
+SAOImage DS9,p,list-item,list,p,1
+SAOImage DS9,p,sec,ack,back,36
+SAOImage DS9,p,sec,app,app-group,5
+SAOImage DS9,p,sec,article,body,46
+SAOImage DS9,p,sec,sec,article,72
+SAOImage DS9,p,sec,sec,sec,17
+SAOImage DS9,sc,p,ack,back,3
+SAOImage DS9,sc,p,sec,sec,1
+SAOImage DS9,source,element-citation,ref,ref-list,1
+SAOImage DS9,title,sec,app,app-group,1
+Spec2d,article-id,article-meta,front,article,1
+Spec2d,article-title,element-citation,ref,ref-list,6
+Spec2d,comment,element-citation,ref,ref-list,1
+Spec2d,comment,nlm-citation,ref,ref-list,3
+Spec2d,ext-link,article-title,element-citation,ref,2
+Spec2d,ext-link,comment,element-citation,ref,1
+Spec2d,ext-link,comment,nlm-citation,ref,2
+Spec2d,ext-link,element-citation,ref,ref-list,91
+Spec2d,ext-link,nlm-citation,ref,ref-list,40
+Spec2d,ext-link,p,fn,fn-group,10
+Spec2d,ext-link,p,fn,p,50
+Spec2d,ext-link,p,list-item,list,1
+Spec2d,ext-link,p,sec,sec,1
+Spec2d,fpage,nlm-citation,ref,ref-list,1
+Spec2d,italic,p,abstract,article-meta,1
+Spec2d,italic,p,ack,back,2
+Spec2d,italic,p,sec,article,7
+Spec2d,italic,p,sec,sec,22
+Spec2d,italic,title,sec,sec,1
+Spec2d,monospace,oasis:entry,oasis:row,oasis:tbody,1
+Spec2d,monospace,p,caption,fig,4
+Spec2d,monospace,p,caption,fig-group,2
+Spec2d,monospace,p,fn,fn-group,2
+Spec2d,monospace,p,fn,p,2
+Spec2d,monospace,p,fn,table-wrap-foot,2
+Spec2d,monospace,p,list-item,list,1
+Spec2d,monospace,p,sec,ack,3
+Spec2d,monospace,p,sec,article,13
+Spec2d,monospace,p,sec,sec,62
+Spec2d,monospace,p,table-wrap-foot,table-wrap,1
+Spec2d,p,abstract,article-meta,front,1
+Spec2d,p,ack,back,article,35
+Spec2d,p,app,app-group,back,1
+Spec2d,p,caption,fig,sec,1
+Spec2d,p,fn,fn-group,sec,8
+Spec2d,p,fn,p,sec,4
+Spec2d,p,sec,ack,back,2
+Spec2d,p,sec,app,app-group,1
+Spec2d,p,sec,article,body,23
+Spec2d,p,sec,sec,article,54
+Spec2d,p,sec,sec,sec,6
+Spec2d,pub-id,element-citation,ref,ref-list,90
+Spec2d,sc,p,app,app-group,1
+Spec2d,sc,p,fn,p,1
+Spec2d,sc,p,list-item,list,1
+Spec2d,sc,p,sec,article,1
+Spec2d,sc,p,sec,sec,8
+Spec2d,sc,title,app,app-group,1
+Spec2d,source,element-citation,ref,ref-list,15
+Spec2d,source,nlm-citation,ref,ref-list,11
+Spec2d,sub,p,sec,sec,1
+Stingray,ext-link,p,fn,p,1
+Stingray,monospace,p,sec,sec,1
+Stingray,p,fn,p,sec,1
+Stingray,p,sec,article,body,1
+Stingray,p,sec,sec,article,1
+Stingray,source,element-citation,ref,ref-list,1
+TARDIS,p,sec,article,body,1
+TARDIS,p,sec,sec,article,1
+TARDIS,pub-id,element-citation,ref,ref-list,4
+TARDIS,sc,p,caption,fig,1
+TARDIS,sc,p,sec,sec,1
+WCSTools,ext-link,comment,element-citation,ref,1
+WCSTools,ext-link,element-citation,ref,ref-list,10
+WCSTools,ext-link,nlm-citation,ref,ref-list,27
+WCSTools,ext-link,p,fn,fn-group,12
+WCSTools,ext-link,p,fn,p,20
+WCSTools,ext-link,p,sec,ack,1
+WCSTools,ext-link,p,sec,article,2
+WCSTools,italic,p,ack,back,1
+WCSTools,italic,p,sec,article,6
+WCSTools,italic,p,sec,sec,10
+WCSTools,monospace,p,list-item,list,1
+WCSTools,monospace,p,sec,article,3
+WCSTools,monospace,p,sec,sec,12
+WCSTools,p,ack,back,article,2
+WCSTools,p,app,app-group,back,3
+WCSTools,p,fn,fn-group,sec,3
+WCSTools,p,fn,p,sec,2
+WCSTools,p,list-item,list,p,2
+WCSTools,p,sec,ack,back,7
+WCSTools,p,sec,app,app-group,1
+WCSTools,p,sec,article,body,27
+WCSTools,p,sec,sec,article,51
+WCSTools,p,sec,sec,sec,4
+WCSTools,sc,p,sec,article,1
+WCSTools,sc,p,sec,sec,2
+WCSTools,tex-math,inline-formula,p,sec,1
