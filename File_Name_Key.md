@@ -11,7 +11,6 @@
 + [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py) - Script used to query the AAS XML files
 + [XML_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_ALIAS_LIST.txt) - List of software aliases searched for using the XML_PARSER.py script
 + [XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819) - Contains scripts used to analyze results of XML scraping
-+ [draft_scripts_old.zip](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/draft_scripts_old.zip) - incomplete or inaccurate drafts of scripts from earlier in the process (remove these once we're done)
 
 ### [XML_SEARCH/XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819)
 + [XML_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
