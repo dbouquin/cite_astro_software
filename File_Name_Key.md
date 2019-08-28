@@ -17,25 +17,26 @@
 + XML_RESULTS/ - contains all files resulting from analysis completed 08-28-2019
 
 ### XML_SEARCH/XML_ANALYSIS/XML_RESULTS/
-+ XML_CLEAN_INPUT_082019.csv - Input file from scraping the XML for software aliases
-+ XML_FINAL_ANALYSIS_082819.csv - File resulting from initial analysis munging - columns created for bib, ack, fn, and rec_credit
-+ XML_alias_per_paper_082819.csv - Number of unique aliases per paper
-+ total_papers_082819.csv - Total papers mentioning each software package
-+ mentions_per_journal_082819.csv - Total papers mentioning each software package by journal title
-+ XML_journal_year_082819.csv - Total papers mentioning each software package by journal title by year
-+ mentions_per_package_by_journal_082819.csv - Total papers mentioning each software package by journal title and package name
-+ alias_per_package_082819.csv - Unique aliases per package
-+ ID_only_082819.csv - Count of articles that mentioned software using identifiers per package
-+ non_ID_only_082819.csv - Count of articles that mentioned software using non-identifiers per package
-+ XML_alias_paper_082819.csv - Count of articles that mentioned software using any alias per package
-+ XML_tags_082819.csv - Unique combinations of nested XML tags for each package
-+ XML_unique_paper_per_year_082819.csv - Total number of papers mentioning software each year per package
-+ bib_count_082819.csv - Total number of papers mentioning software in a bibligraphic entry per package
-+ ack_count_082819.csv - Total number of papers mentioning software in an acknowledgement per package (bibliographies are often nested within acknowledgement tags)
-+ fn_count_082819.csv - Total number of papers mentioning software in a footnote per package
-+ rec_credit_count_082819.csv - Total number of papers mentioning software that gave some form of recognizable credit
-+ rec_credit_only_files_082819.csv - List of papers that gave a recognizable form of credit
-+ rec_credit_only_files_082819.csv - List of papers mentioning software that gave no form of recognizable credit
++ [XML_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
++ [XML_CLEAN_INPUT_082019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_CLEAN_INPUT_082019.csv) - Input file from scraping the XML for software aliases
++ [XML_FINAL_ANALYSIS_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.csv) - File resulting from initial analysis munging - columns created for bib, ack, fn, and rec_credit
++ [XML_alias_per_paper_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_alias_per_paper_082819.csv) - Number of unique aliases per paper
++ [total_papers_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/total_papers_082819.csv) - Total papers mentioning each software package
++ [mentions_per_journal_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/mentions_per_journal_082819.csv) - Total papers mentioning each software package by journal title
++ [XML_journal_year_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_journal_year_082819.csv) - Total papers mentioning each software package by journal title by year
++ [mentions_per_package_by_journal_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/mentions_per_package_by_journal_082819.csv) - Total papers mentioning each software package by journal title and package name
++ [alias_per_package_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/alias_per_package_082819.csv) - Unique aliases per package
++ [ID_only_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/ID_only_082819.csv) - Count of articles that mentioned software using identifiers per package
++ [non_ID_only_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/non_ID_only_082819.csv) - Count of articles that mentioned software using non-identifiers per package
++ [XML_alias_paper_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_alias_paper_082819.csv) - Count of articles that mentioned software using any alias per package
++ [XML_tags_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_tags_082819.csv) - Unique combinations of nested XML tags for each package
++ [XML_unique_paper_per_year_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_unique_paper_per_year_082819.csv) - Total number of papers mentioning software each year per package
++ [bib_count_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/bib_count_082819.csv) - Total number of papers mentioning software in a bibligraphic entry per package
++ [ack_count_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/ack_count_082819.csv) - Total number of papers mentioning software in an acknowledgement per package (bibliographies are often nested within acknowledgement tags)
++ [fn_count_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/fn_count_082819.csv) - Total number of papers mentioning software in a footnote per package
++ [rec_credit_count_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_count_082819.csv) - Total number of papers mentioning software that gave some form of recognizable credit
++ [rec_credit_only_files_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_only_files_082819.csv) - List of papers that gave a recognizable form of credit
++ [rec_credit_only_files_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/rec_credit_only_files_082819.csv) - List of papers mentioning software that gave no form of recognizable credit
 
 
 
