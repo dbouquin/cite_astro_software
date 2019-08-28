@@ -1,9 +1,10 @@
-## Scripts and data associated with "Credit Lost: A Twenty-Three Year Case Study on Software Citation in Astronomy" 
+## *Credit Lost: A Twenty-Three Year Case Study on Software Citation in Astronomy* 
+### Scripts and Datasets
 [Daina Bouquin](https://github.com/dbouquin), [Jennifer Koch](https://library.cfa.harvard.edu/jennifer-koch), [Daniel Chivvis](https://github.com/danielchivvis)
 
 This folder contains files relevant to an on-going case study examining software citation practices in Astronomy. 
 
-### Summary:
+#### Summary:
 
 CfA Library staff identified nine software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
 
