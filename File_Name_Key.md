@@ -1,22 +1,19 @@
 ## File name key
 
 ### Directory structure of Citation_Study_2019
-+ API_SEARCH/ - ADS API Search for software aliases
-+ XML_Search/ - XML Scraping for sofware aliases
-+ READ_ME.md
-+ File_Name_Key.md - The file you're reading
++ [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH) - ADS API Search for software aliases
++ [XML_Search/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH) - XML Scraping for sofware aliases
++ [READ_ME.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/README.md)
++ [LICENSE.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/LICENSE)
++ [File_Name_Key.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/File_Name_Key.md) - The file you're reading
 
-### XML_SEARCH/
-+ XML_PARSER.py - Script used to query the AAS XML files
-+ XML_ALIAS_LIST.txt - List of software aliases searched for using the XML_PARSER.py script
-+ XML_ANALYSIS/ - Contains scripts used to analyze results of XML scraping
+### [XML_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH)
++ [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py) - Script used to query the AAS XML files
++ [XML_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_ALIAS_LIST.txt) - List of software aliases searched for using the XML_PARSER.py script
++ [XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819) - Contains scripts used to analyze results of XML scraping
++ draft_scripts_old.zip - incomplete or inaccurate drafts of scripts from earlier in the process
 
-### XML_SEARCH/XML_ANALYSIS/
-+ draft_scripts_old.zip - collection of early analysis scripts that were incomplete, buggy, or incorrect
-+ XML_File_Name_Key.ml - describes all files within the XML_Results directory
-+ XML_RESULTS/ - contains all files resulting from analysis completed 08-28-2019
-
-### XML_SEARCH/XML_ANALYSIS/XML_RESULTS/
+### [XML_SEARCH/XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819)
 + [XML_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
 + [XML_CLEAN_INPUT_082019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_CLEAN_INPUT_082019.csv) - Input file from scraping the XML for software aliases
 + [XML_FINAL_ANALYSIS_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_RESULTS_082819/XML_FINAL_ANALYSIS_082819.csv) - File resulting from initial analysis munging - columns created for bib, ack, fn, and rec_credit
