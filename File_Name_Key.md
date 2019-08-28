@@ -62,8 +62,8 @@
 ### [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH) (Edit these!)
 + [ADS_API_SEARCH_QUERY.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/ADS_API_SEARCH_QUERY.py) - Script used to query the ADS API
 + [API_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ALIAS_LIST.txt) - List of software aliases searched for using the ADS API
-+ API_ANALYSIS/ - Contains scripts used to analyze results of API query
-+ API_Cleaner.py - ?
++ [API_ANALYSIS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_061019) - Contains scripts used to analyze results of API query
++ [API_Cleaner.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_CLEANER_031919.py) - ?
 
 
 ## API INPUT/RESULTS COLUMN EXPLANATIONS (Edit these!)
