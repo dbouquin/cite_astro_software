@@ -1,6 +1,6 @@
 ## File name key
 
-### Directory structure of Citation_Study_2019
+### Directory structure of cite_astro_software_2019
 + [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH) - ADS API Search for software aliases
 + [XML_Search/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH) - XML Scraping for sofware aliases
 + [READ_ME.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/README.md)
