@@ -58,11 +58,31 @@
 | Publisher  | Publisher of the record ("publisher-name" in XML)  |
 
 
-### [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH) (Edit these!)
+### [API_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH)
+
 + [ADS_API_SEARCH_QUERY.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/ADS_API_SEARCH_QUERY.py) - Script used to query the ADS API
 + [API_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ALIAS_LIST.txt) - List of software aliases searched for using the ADS API
 + [API_ANALYSIS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_061019) - Contains scripts used to analyze results of API query
-+ [API_Cleaner.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_CLEANER_031919.py) - ?
++ [API_Cleaner.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_CLEANER_031919.py) - Removes confounds from ADS API results
+
+### [API_SEARCH/API_ANALYSIS_082819](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819)
++ [API_CLEAN_INPUT_061019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_CLEAN_INPUT_061019.csv) - Input file from ADS API queries for software aliases
++ [API_FINAL_ANALYSIS_082819.csv]https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_FINAL_ANALYSIS_082819.csv) - File resulting from initial analysis munging - converts highlights to strings
++ [API_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
+
+### [API_ANALYSIS_082819/API_RESULTS_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819)
++ [API_alias_citations_082019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_alias_citations_082019.csv) - Software citations per paper
++ [API_alias_paper_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_alias_paper_082819.csv) - Aliases per paper
++ [API_cite_aliases_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_cite_aliases_082819.csv) - REVISIT THIS
++ [API_over_time_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_over_time_082819.csv) - Total mentions of software aliases over time
+
+### [API_RESULTS_AAS_ONLY_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819)
++ [API_CLEAN_INPUT_AAS_ONLY_061019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_CLEAN_INPUT_061019.csv) - Input file from ADS API queries for software aliases (AAS only)
++ [API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb) - Notebook used to generate results files (AAS only)
++ [API_alias_citations_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_citations_AAS_ONLY_082819.csv) - Software citations per paper (AAS only)
++ [API_alias_paper_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_paper_AAS_ONLY_082819.csv) - Aliases per paper
++ [API_cite_aliases_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_cite_aliases_AAS_ONLY_082819.csv) - REVISIT THIS (AAS only)
++ [API_over_time_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_over_time_AAS_ONLY_082819.csv) - Total mentions of software aliases over time (AAS only)
 
 
 ## API INPUT/RESULTS COLUMN EXPLANATIONS (Edit these!)
