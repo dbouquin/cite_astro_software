@@ -91,10 +91,10 @@ Refer to [Comprehensive List of Solr Fields & Operators](http://adsabs.github.io
 
 | Column  | Explanation |
 | ------------- | ------------- |
-| Alias  | Alias list (See: API_ALIAS_LIST.txt)  |
+| Alias  | Alias list (See: [API_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ALIAS_LIST.txt))  |
 | Software_Package  | Name of software package  |
 | Identifier  | 1 = alias is identifier. 0 = alias is not identifier.  |
-| Highlight  | ≥150000 character snippet around alias. (See: ADS_API_SEARCH_QUERY.py)  |
+| Highlight  | ≥150000 character snippet around alias. (See: [ADS_API_SEARCH_QUERY.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/ADS_API_SEARCH_QUERY.py))  |
 | Citation  | TRUE = In-text citation used. FALSE = In-text citation not used. |
 | Bibcode  | ADS identifier of a paper  |
 | Alternate_Bibcode  | List of alternate bibcodes for that document  |
