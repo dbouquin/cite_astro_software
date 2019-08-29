@@ -65,7 +65,7 @@
 + [API_ANALYSIS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_061019) - Contains scripts used to analyze results of API query
 + [API_Cleaner.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_CLEANER_031919.py) - Removes confounds from ADS API results
 
-### [API_SEARCH/API_ANALYSIS_082819](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819)
+### [API_SEARCH/API_ANALYSIS_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819)
 + [API_CLEAN_INPUT_061019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_CLEAN_INPUT_061019.csv) - Input file from ADS API queries for software aliases
 + [API_FINAL_ANALYSIS_082819.csv]https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_FINAL_ANALYSIS_082819.csv) - File resulting from initial analysis munging - converts highlights to strings
 + [API_FINAL_ANALYSIS_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_FINAL_ANALYSIS_082819.ipynb) - Notebook used to generate results files
@@ -85,7 +85,7 @@
 + [API_over_time_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_over_time_AAS_ONLY_082819.csv) - Total mentions of software aliases over time (AAS only)
 
 
-## API INPUT/RESULTS COLUMN EXPLANATIONS (Edit these!)
+## API INPUT/RESULTS COLUMN EXPLANATIONS
 Refer to [Comprehensive List of Solr Fields & Operators](http://adsabs.github.io/help/search/comprehensive-solr-term-list) for the complete list of methods of querying the ADS system.
 
 
