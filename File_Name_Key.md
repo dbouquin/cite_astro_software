@@ -38,7 +38,7 @@
 
 | Column  | Explanation |
 | ------------- | ------------- |
-| Alias  | Alias list (See: XML_ALIAS_LIST.txt)  |
+| Alias  | Alias list [(See: XML_ALIAS_LIST.txt)](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_ALIAS_LIST.txt)  |
 | Software_Package  | Name of software package  |
 | Identifier  | 1 = alias is identifier. 0 = alias is not identifier.  |
 | Pub_Year  | Year of publication ("pub-date" in XML)  |
