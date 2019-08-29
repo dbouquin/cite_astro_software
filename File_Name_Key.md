@@ -50,9 +50,9 @@
 | Parent2_Tag  |  Layer 2 of XML Tags surrounding alias (See: [NISO JATS Tag Library](https://jats.nlm.nih.gov/publishing/tag-library/1.2/index.html))|
 | Parent3_Tag  |  Layer 3 of XML Tags surrounding alias (See: [NISO JATS Tag Library](https://jats.nlm.nih.gov/publishing/tag-library/1.2/index.html))|
 | Parent4_Tag  |  Layer 4 of XML Tags surrounding alias (See: [NISO JATS Tag Library](https://jats.nlm.nih.gov/publishing/tag-library/1.2/index.html))|
-| Parent1_Content  |  ≥10000 characters between Layer 1 XML Tags (See: XML_PARSER.py) |
-| Parent2_Content  |  ≥10000 characters between Layer 2 XML Tags (See: XML_PARSER.py) |
-| Parent3_Content  |  ≥10000 characters between Layer 3 XML Tags (See: XML_PARSER.py) |
+| Parent1_Content  |  ≥10000 characters between Layer 1 XML Tags (See: [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py)) |
+| Parent2_Content  |  ≥10000 characters between Layer 2 XML Tags (See: [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py)) |
+| Parent3_Content  |  ≥10000 characters between Layer 3 XML Tag (See: [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py)) |
 | Title  | Title of the record ("article-title" in XML) |
 | Author(s)  | List of authors on a paper ("name" in XML)  |
 | Publisher  | Publisher of the record ("publisher-name" in XML)  |
