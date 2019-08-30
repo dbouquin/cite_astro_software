@@ -1,0 +1,17 @@
+Software_Package,Citation,Bibcode
+Astroblend,False,2
+Astroblend,True,3
+Astropy,False,179
+Astropy,True,314
+RADMC-3D,False,149
+RADMC-3D,True,300
+SAOImage DS9,False,675
+SAOImage DS9,True,470
+Spec2d,False,172
+Spec2d,True,179
+Stringray,False,136
+Stringray,True,184
+TARDIS,False,57
+TARDIS,True,63
+WCSTools,False,167
+WCSTools,True,192
