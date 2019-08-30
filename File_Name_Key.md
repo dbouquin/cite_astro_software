@@ -77,11 +77,13 @@
 
 ### [API_RESULTS_AAS_ONLY_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819)
 + [API_CLEAN_INPUT_AAS_ONLY_061019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_CLEAN_INPUT_061019.csv) - Input file from ADS API queries for software aliases (AAS only)
++ [API_FINAL_ANALYSIS_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_FINAL_ANALYSIS_AAS_ONLY_082819.csv) - File resulting from initial analysis munging - converts highlights to strings (AAS only)
 + [API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb) - Notebook used to generate results files (AAS only)
++ [API_ID_only_AAS_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_ID_only_AAS_082819.csv) - For each package, the number of articles that mentioned their identifiers (AAS only)
 + [API_alias_citations_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_citations_AAS_ONLY_082819.csv) - Software citations per paper (AAS only)
 + [API_alias_paper_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_paper_AAS_ONLY_082819.csv) - Aliases per paper
++ [API_non_ID_only_AAS_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_non_ID_only_AAS_082819.csv) - For each package, the number of articles that mentioned their non-identifiers (AAS only)
 + [API_over_time_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_over_time_AAS_ONLY_082819.csv) - Total mentions of software aliases over time (AAS only)
-
 
 ## API INPUT/RESULTS COLUMN EXPLANATIONS
 Refer to [Comprehensive List of Solr Fields & Operators](http://adsabs.github.io/help/search/comprehensive-solr-term-list) for the complete list of methods of querying the ADS system.
