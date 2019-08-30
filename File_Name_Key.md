@@ -73,7 +73,6 @@
 ### [API_ANALYSIS_082819/API_RESULTS_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819)
 + [API_alias_citations_082019.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_alias_citations_082019.csv) - Software citations per paper
 + [API_alias_paper_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_alias_paper_082819.csv) - Aliases per paper
-+ [API_cite_aliases_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_cite_aliases_082819.csv) - REVISIT THIS
 + [API_over_time_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_082819/API_over_time_082819.csv) - Total mentions of software aliases over time
 
 ### [API_RESULTS_AAS_ONLY_082819/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819)
@@ -81,7 +80,6 @@
 + [API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_FINAL_ANALYSIS_AAS_ONLY_082819.ipynb) - Notebook used to generate results files (AAS only)
 + [API_alias_citations_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_citations_AAS_ONLY_082819.csv) - Software citations per paper (AAS only)
 + [API_alias_paper_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_alias_paper_AAS_ONLY_082819.csv) - Aliases per paper
-+ [API_cite_aliases_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_cite_aliases_AAS_ONLY_082819.csv) - REVISIT THIS (AAS only)
 + [API_over_time_AAS_ONLY_082819.csv](https://github.com/dbouquin/cite_astro_software_2019/blob/master/API_SEARCH/API_ANALYSIS_082819/API_RESULTS_AAS_ONLY_082819/API_over_time_AAS_ONLY_082819.csv) - Total mentions of software aliases over time (AAS only)
 
 
