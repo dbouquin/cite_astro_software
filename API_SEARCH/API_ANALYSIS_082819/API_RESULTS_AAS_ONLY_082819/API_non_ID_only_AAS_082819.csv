@@ -1,0 +1,81 @@
+Software_Package,Alias,count
+Astroblend,AstroBlend,1
+Astroblend,astroblend.com,1
+Astropy,AstroPy,93
+Astropy,Astropy Collaboration,63
+Astropy,Astropy Collaboration 2013,62
+Astropy,Astropy Collaboration et al. (2013),65
+Astropy,Astropy Collaboration et al. (2018),1
+Astropy,Astropy Collaboration et al. 2013,65
+Astropy,Astropy Collaboration et al. 2018,1
+Astropy,"Astropy Collaboration, 2013",62
+Astropy,astropy.cosmology,6
+Astropy,astropy.org,18
+Astropy,astropy.units,1
+Astropy,astropy/astroplan,1
+Astropy,astropy/astroquery,1
+Astropy,astropy/astroscrappy,2
+Astropy,astropy/halotools,1
+Astropy,astropy/photutils,1
+Astropy,github.com/astropy,7
+Astropy,github.com/astropy/astroplan,1
+Astropy,github.com/astropy/astroquery,1
+Astropy,github.com/astropy/astroscrappy,2
+Astropy,github.com/astropy/halotools,1
+Astropy,github.com/astropy/photutils,1
+RADMC-3D,RADMC,134
+RADMC-3D,RADMC-3D,85
+RADMC-3D,RADMC3D,84
+RADMC-3D,dullemond/software/radmc-3d,51
+RADMC-3D,ita.uni-heidelberg.de/dullemond/software/radmc-3d,31
+RADMC-3D,ita.uni-heidelberg.de/~dullemond/software/radmc-3d,31
+RADMC-3D,radmc,52
+RADMC-3D,radmc-3d,48
+RADMC-3D,radmc3d,17
+SAOImage DS9,DS9,148
+SAOImage DS9,DS9 region,1
+SAOImage DS9,DS9 regions,1
+SAOImage DS9,SAO Image,4
+SAOImage DS9,SAO image ds9,2
+SAOImage DS9,SAOImage,84
+SAOImage DS9,SAOImage DS9,50
+SAOImage DS9,SAOtng,1
+SAOImage DS9,ds9,128
+SAOImage DS9,ds9 region,20
+SAOImage DS9,ds9 regions,19
+SAOImage DS9,ds9.si.edu,20
+SAOImage DS9,hea-www.harvard.edu/RD/ds9,13
+SAOImage DS9,hea-www.harvard.edu/saord/funtools/ds9,1
+SAOImage DS9,saoimage ds9,13
+Spec2d,DEEP2 DEIMOS Data Pipeline,5
+Spec2d,DEEP2 DEIMOS Data Reduction Pipeline,7
+Spec2d,DEEP2 DEIMOS Pipeline,6
+Spec2d,DEIMOS pipeline,16
+Spec2d,Spec2d,139
+Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,4
+Spec2d,astro.berkeley.edu/~cooper/deep/spec2d,24
+Spec2d,astron.berkeley.edu/~cooper/deep/spec2d,12
+Spec2d,deep.berkeley.edu/spec2d,7
+Spec2d,deep.ps.uci.edu/spec2d,3
+Spec2d,idlspec2d,63
+Spec2d,keck.hawaii.edu/inst/deimos/pipeline.html,5
+Spec2d,sdss3.org/svn/repo/idlspec2d,4
+Spec2d,spectro.princeton.edu/idlspec2d,12
+Spec2d,svn.sdss.org/public/repo/manga/mangadrp/tags/v1_5_4/pro/spec2d,1
+Stringray,HENDRICS,2
+Stringray,Stingray,8
+Stringray,github.com/StingraySoftware,1
+Stringray,github.com/StingraySoftware/notebooks,1
+TARDIS,TARDIS,2
+TARDIS,Tardis,1
+WCSTools,WCS Tools,2
+WCSTools,WCSLIB,2
+WCSTools,WCSTools,113
+WCSTools,harvard.edu/software/wcstools,19
+WCSTools,imwcs,27
+WCSTools,sky2xy,3
+WCSTools,tdc-www.cfa.harvard.edu/software/wcstools,2
+WCSTools,tdc-www.harvard.edu/software/wcstools,9
+WCSTools,tdc-www.harvard.edu/wcstools,11
+WCSTools,wcslib,2
+WCSTools,xy2sky,10
