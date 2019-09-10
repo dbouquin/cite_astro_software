@@ -10,7 +10,7 @@
 ### [XML_SEARCH/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH)
 + [XML_PARSER.py](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PARSER_082019.py) - Script used to query the AAS XML files
 + [XML_ALIAS_LIST.txt](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_ALIAS_LIST.txt) - List of software aliases searched for using the XML_PARSER.py script
-+ [XML_PREF_CITATIONS.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_PREF_CITATIONS.md) - Links to preferred citation information
++ [XML_PREF_CITATIONS.md](https://github.com/dbouquin/cite_astro_software_2019/blob/master/XML_SEARCH/XML_PREF_CITATIONS.md) - Links to preferred citation information
 + [XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819) - Contains scripts used to analyze results of XML scraping
 
 ### [XML_SEARCH/XML_RESULTS/](https://github.com/dbouquin/cite_astro_software_2019/tree/master/XML_SEARCH/XML_RESULTS_082819)
