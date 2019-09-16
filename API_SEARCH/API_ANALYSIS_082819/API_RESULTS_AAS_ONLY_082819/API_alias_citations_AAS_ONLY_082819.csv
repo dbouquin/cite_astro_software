@@ -8,8 +8,8 @@ SAOImage DS9,False,168
 SAOImage DS9,True,112
 Spec2d,False,123
 Spec2d,True,117
-Stringray,False,5
-Stringray,True,5
+Stringray,False,1
+Stringray,True,2
 TARDIS,False,1
 TARDIS,True,2
 WCSTools,False,55
