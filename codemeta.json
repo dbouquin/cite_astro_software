@@ -6,6 +6,7 @@
   "@type": "SoftwareSourceCode",
   "name": "Credit Lost: Analysis Software",
   "identifier": "http://dx.doi.org/10.5281/zenodo.3530867",
+  "datePublished": "2019-11-06", 
   "codeRepository": "https://github.com/dbouquin/cite_astro_software_2019",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
