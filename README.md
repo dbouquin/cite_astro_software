@@ -3,6 +3,12 @@
 
 This folder contains files related to a case study examining software citation practices in Astronomy. 
 
+If you would like to cite this repository, please link to the archival copy of this code on Zenodo
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3530867.svg)](https://doi.org/10.5281/zenodo.3530867)
+
+Citation infomation is also available in the `codemeta.json` file.
+
 #### Summary:
 
 CfA Library staff identified nine software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 23 year period.
