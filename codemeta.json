@@ -1,0 +1,37 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Credit Lost: Analysis Software",
+  "identifier": "http://dx.doi.org/10.5281/zenodo.3530867",
+  "codeRepository": "https://github.com/dbouquin/cite_astro_software_2019",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python",
+    "version": "2.7.16",
+    "url": "https://www.python.org/"
+  },
+  "license": "https://spdx.org/licenses/MIT",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Daina",
+      "familyName": "Bouquin",
+      "email": "daina.bouquin@cfa.harvard.edu",
+      "id": "https://orcid.org/0000-0003-2626-3688"
+    },
+    {
+      "@type": "Person",
+      "id": "https://orcid.org/0000-0001-6656-160X",
+      "email": "daniel.chivvis@cfa.harvard.edu",
+      "givenName": "Daniel",
+      "familyName": "Chivvis"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jennifer",
+      "familyName": "Koch",
+      "id": "https://orcid.org/0000-0001-9231-8689"
+    }
+  ],
+  "keywords": ["Astronomy software (1855)"]
+}
