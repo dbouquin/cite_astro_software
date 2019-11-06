@@ -1,11 +1,11 @@
-## *Credit Lost: A Twenty-Three Year Case Study on Software Citation in Astronomy* 
+## *Credit Lost: Two Decades of Software Citation in Astronomy* 
 ### Scripts and Datasets
 
 This folder contains files related to a case study examining software citation practices in Astronomy. 
 
 #### Summary:
 
-CfA Library staff identified nine software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
+CfA Library staff identified nine software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 23 year period.
 
 Software packages included in the study:
 1. [AstroBlend](http://www.astroblend.com/)
