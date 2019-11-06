@@ -1,8 +1,7 @@
 ## *Credit Lost: A Twenty-Three Year Case Study on Software Citation in Astronomy* 
 ### Scripts and Datasets
-[Daina Bouquin](https://github.com/dbouquin), [Jennifer Koch](https://library.cfa.harvard.edu/jennifer-koch), [Daniel Chivvis](https://github.com/danielchivvis)
 
-This folder contains files relevant to an on-going case study examining software citation practices in Astronomy. 
+This folder contains files related to a case study examining software citation practices in Astronomy. 
 
 #### Summary:
 
@@ -21,7 +20,7 @@ Software packages included in the study:
 
 Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist.
 
-Two different types of searches will be conducted to better understand software citation practices in astronomy. The results of this case study will be used to:
+Two different types of searches were conducted to better understand software citation practices in astronomy. The results of this case study will be used to:
 * recommend comprehensive reviewer and editor guidelines/inform policy development among publishers
 * develop training and other resources for article authors and software developers to improve software citation practices
 * inform the prioritization and development of tools that could be used to support software citation
