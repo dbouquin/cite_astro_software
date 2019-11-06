@@ -1,5 +1,8 @@
 {
-  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@context": {
+    "codemeta": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "keywords": "http://vocabs.ands.org.au/repository/api/lda/aas/the-unified-astronomy-thesaurus/3-0-0/concept"
+  },
   "@type": "SoftwareSourceCode",
   "name": "Credit Lost: Analysis Software",
   "identifier": "http://dx.doi.org/10.5281/zenodo.3530867",
