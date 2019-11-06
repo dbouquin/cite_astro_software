@@ -1,9 +1,9 @@
 ## *Credit Lost: Two Decades of Software Citation in Astronomy* 
 ### Scripts and Datasets
 
-This folder contains files related to a case study examining software citation practices in Astronomy. 
+This folder contains files related to [a case study](https://dx.doi.org/10.17605/OSF.IO/P9GJR) examining software citation practices in Astronomy. 
 
-If you would like to cite this repository, please link to the archival copy of this code on Zenodo
+If you would like to cite this repository, please link to the archival copy on Zenodo
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3530867.svg)](https://doi.org/10.5281/zenodo.3530867)
 
